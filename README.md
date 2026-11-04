@@ -10,4 +10,10 @@ Add, subtract, multiply and divide two numbers; display the result.
 
 Run: python3 calculator.py
 Enter the first number, operator (+ - * /), then second number.
-The program prints Result: followed by the answer.
+The program prints "Result: " followed by the answer.
+
+## How to test it
+
+Run: ./check.sh
+then run: echo $?
+all five results must pass for the code to be considered functional, and the exit status must be 0.
