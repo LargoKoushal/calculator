@@ -2,4 +2,4 @@ __pycache__/
 *.pyc
 .env
 keep.txt
-token.txt
+Calc_token.txt
