@@ -3,3 +3,5 @@ __pycache__/
 .env
 keep.txt
 Calc_token.txt
+.venv/
+.pytest_cache/
